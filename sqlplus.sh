@@ -2,7 +2,7 @@
 
 USER=hr
 PASS=hr
-ADDR=172.16.40.4
+ADDR=192.168.30.4
 PORT=1521
 SID=orcl
 BASE=${HOME}/instantclient_12_1
